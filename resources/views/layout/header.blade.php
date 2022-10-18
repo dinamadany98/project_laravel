@@ -32,7 +32,7 @@
               <li class="nav-item"> <a class="nav-link active text-light" aria-current="page" href="/about">About Us</a></li>
           <li class="nav-item"><a class="nav-link active text-light" aria-current="page" href="/contact">Contact Us</a>
             </li>
-          <li class="nav-item"><a class="nav-link active text-light" aria-current="page" href="/posts/"> Cources</a>
+          <li class="nav-item"><a class="nav-link active text-light" aria-current="page" href="/myhome"> Cources</a>
             </li>
             <li class="nav-item"><a class="nav-link active text-light" aria-current="page" href="{{ route('login') }}"> Login</a>
             </li>
